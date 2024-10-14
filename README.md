@@ -30,7 +30,7 @@ Now that your database is up and running, build an Express app that serves the f
   - Send the updated employee with status 200
 - `DELETE /employees/:id` deletes employee with specified ID
   - Send 404 if employee does not exist
-  - Send just the status 201
+  - Send just the status 204
 
 ## Submission
 
